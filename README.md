@@ -2,4 +2,6 @@
 
 A new Flutter project.
 
-## 
+## Supports:
+- Android
+- IOS
