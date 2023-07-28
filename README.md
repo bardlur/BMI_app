@@ -1,6 +1,6 @@
 # Flutter: BMI calculater
 
-A new Flutter project.
+🌿BMI calculater app with Flutter
 
 <br/>
 
