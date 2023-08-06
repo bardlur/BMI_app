@@ -4,7 +4,7 @@
 
 <br/>
 
-## Supports :
+## Support :
 
 - Android
 - IOS
